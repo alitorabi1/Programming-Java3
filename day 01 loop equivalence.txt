@@ -1,0 +1,16 @@
+for (INIT; COND; STEP) BODY
+
+INIT
+while (COND) {
+	BODY
+	STEP
+}
+
+INIT
+if (COND) {
+	do {
+		BODY
+		STEP
+	} while (COND)
+}
+

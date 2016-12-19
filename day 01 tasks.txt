@@ -1,0 +1,62 @@
+TASK - REVIEW 1
+
+Allocate array of 10 items type int,
+generate 10 random numbers 1-100 (inclusive)
+using a for loop and put the into the array.
+
+Display the contents of the array using for-each loop,
+all numbers on the same line separated by commas.
+
+
+TASK 03
+
+Ask user for their name, and then for the names of
+their 4 best friends. Store the names of 4 friends
+in an array of Strings. Then display them back to
+the user.
+
+Example interaction:
+What is your name? Tom
+How many friends do you have (2 or more)? 4
+Enter name of your friend #1: Jerry
+Enter name of your friend #2: Terry
+Enter name of your friend #3: Barry
+Enter name of your friend #4: Merry
+
+Got it, Tom. Your best friends are Jerry, Terry, Barry, and Merry.
+
+TASK 04
+
+Ask the user for 2 integer numbers, min and max.
+Write a for loop that will print all the numbers
+from min to max (inclusive).
+
+PART 2:
+Implement the loop 3 times:
+- for loop
+- while loop
+- do-while loop
+All loops must behave EXACTLY THE SAME WAY
+no matter what the numbers are.
+Except for min and max - do NOT share variables
+between different types of loops.
+
+Example:
+
+Enter min and max numbers, separated by space: 3 10
+Numbers are 3, 4, 5, 6, 7, 8, 9, 10,
+Numbers are 3, 4, 5, 6, 7, 8, 9, 10,
+Numbers are 3, 4, 5, 6, 7, 8, 9, 10,
+
+
+
+
+
+
+
+
+
+
+
+
+

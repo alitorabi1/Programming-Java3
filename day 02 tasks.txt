@@ -1,0 +1,6 @@
+TASK REVIEW 09
+
+Declare array of 5 Strings.
+Ask user for names of 5 people and save them in the array.
+Ask user for an integer number.
+Display all names from the array that are shorter (number of characters) than the integer number provided.

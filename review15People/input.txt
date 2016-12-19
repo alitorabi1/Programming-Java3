@@ -1,0 +1,4 @@
+Person;Jerry;23
+Student;Timmy;44;Math;3.8
+Student;Marry;32;Eng;3.9
+Teacher;Larry;56;PhysEd;12

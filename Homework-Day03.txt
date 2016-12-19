@@ -1,0 +1,29 @@
+HOMEWORK Wednesday
+
+Create project HW2PeopleFromFile
+Copy class Person from other project we did today.
+
+Create input.txt file in the main directory of
+your project containing pairs of lines.
+
+Jerry Doe
+33
+Marry Moe
+25
+Timmy Toes
+55
+
+Read in the contents of the file for every two
+lines creating an instance of Person
+and adding it to ArrayList<Person> personList.
+
+Find the oldest persons and display their name and age.
+
+Find the average age of all people.
+
+Open file 'output.txt' for writing and write to
+it the name and age of the oldest person on two separate lines. Make sure to close the file.
+Use try-with-resources.
+
+
+

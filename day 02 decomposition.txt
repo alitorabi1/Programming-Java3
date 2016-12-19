@@ -1,0 +1,26 @@
+WAYS TO DECOMPOSE A TASK INTO METHODS OR CLASSES
+
+1. If you're performing an operation multiple
+times and it takes many lines of code.
+Instead of copy&paste (code duplication)
+create a reusable method.
+
+int inputNumericalGrade()
+
+2. Single responsibility
+
+DO NOT DO THIS - two functionalities in one method:
+double addOrPrint(double v1, double v2, boolean print)
+
+DO THIS INSTEAD:
+double add(double v1, double v2)
+void printTwoDoubles(double v1, double v2)
+
+3. Stages of execution
+
+Stage 1: getInputs()
+Stage 2: analyze (may be multiple methods)
+Stage 3: output the results
+
+4. Layers of program - usually one or more classes per layer.
+Example layers: Model / View / Controller

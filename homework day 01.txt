@@ -1,0 +1,16 @@
+REVIEW TOPICS FOR TUESDAY (NON-OOP):
+* primitive types, their ranges and uses
+* scope of variables (local, fields)
+* if, if-else, switch-case
+* for, while, do-while, break, continue
+* arrays of int, double, String
+* String.format() and System.out.printf()
+* Scanner use to input integers, double, Strings
+* Random number generation using Math.random and Random
+* operands + - * / %
+* casting (explicit and implicit) of primitive types
+* definig methods, parameters, return types
+* pass by value, pass by reference
+
+
+

@@ -1,0 +1,14 @@
+REVIEW TOPICS FOR TUESDAY (NON-OOP): 
+* primitive types, their ranges and uses 
+* scope of variables (local, fields) 
+* if, if-else, switch-case 
+* for, while, do-while, break, continue 
+* arrays of int, double, String 
+* Scanner use to input integers, double, Strings 
+* Random number generation using Math.random and Random 
+* operands + - * / % * casting (explicit and implicit) of primitive types 
+* defining methods, parameters, return types 
+* pass by value, pass by reference  
+
+Your task is to take your textbook and find a chapter or section for each of the items above and READ IT.
+
